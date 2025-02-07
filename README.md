@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Ranjeet Kulkarni</h1>
-  <h3>Machine Learning Innovator | Full-Stack Developer </h3>
+  <h3>Machine Learningand Web Development Enthusiast </h3>
 </div>
 
 ---
