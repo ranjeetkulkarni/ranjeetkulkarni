@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Hi 👋, I'm Ranjeet Kulkarni</h1>
   <h3>Machine Learning and Web Development Enthusiast</h3>
+  <p>
+    <a href="https://v0-portfolio-alpha-one-85.vercel.app/" target="_blank" rel="noreferrer">
+      Visit My Portfolio Website
+    </a>
+  </p>
 </div>
 
 ---
@@ -14,7 +19,18 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ### Projects
 
-#### 1. **N.E.S.T: AI-Driven Clinical Trials Recommender System**  
+#### 1. **MyPortfolio: Personal Portfolio Website**  
+**[GitHub Repo](https://github.com/ranjeetkulkarni/Portfolio)**
+
+- **Responsive Design:** Built a modern, mobile-friendly personal portfolio website showcasing projects, skills, and experience.
+- **Interactive UI:** Utilized HTML5, CSS3, and JavaScript for smooth animations and an intuitive user experience.
+- **Scalable Architecture:** Integrated best practices for performance optimization and SEO, ensuring fast load times and discoverability.
+
+**Tech Stack:** HTML5 | CSS3 | JavaScript | Bootstrap
+
+---
+
+#### 2. **N.E.S.T: AI-Driven Clinical Trials Recommender System**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/AI-KnowledgeGraph-ClinicalTrialRecommender)**  
 
 - **Innovative Pipeline:** Engineered a scalable AI solution to semantically group and retrieve clinical trial data from **450k records** (495MB of textual bio-medical data) by merging multi-source inputs and extracting structured relationships using **Gemma2**.
@@ -25,7 +41,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 2. **CiboGenie: AI-Powered Food Analysis**  
+#### 3. **CiboGenie: AI-Powered Food Analysis**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/CiboGenie)**  
 
 - **Data Extraction & Synthesis:** Engineered an AI-driven platform that extracts and synthesizes multi-source data (PDFs, Wikipedia, Google) to analyze food ingredients, define safe consumption guidelines, and recommend healthier substitutes.
@@ -36,7 +52,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 3. **InkSpire: Real-Time Sketch Colorization**  
+#### 4. **InkSpire: Real-Time Sketch Colorization**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/InkSpire)**  
 
 - **Interactive Web Application:** Developed a user-friendly web app that converts sketches to colorized images in real-time using generative adversarial networks (GANs).
@@ -47,7 +63,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 4. **HR Attrition Prediction**  
+#### 5. **HR Attrition Prediction**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/HR_Attrition)**  
 
 - **Predictive Analytics:** Developed a supervised machine learning model to forecast employee attrition by analyzing demographics, job satisfaction, work-life balance, and performance metrics.
@@ -58,7 +74,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 5. **Campus Ease**  
+#### 6. **Campus Ease**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/Campus-Ease)**  
 
 - **Comprehensive Campus Platform:** Created a web-based platform to streamline campus management, enhancing the student experience with secure authentication, event organization, and resource allocation.
@@ -69,7 +85,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 6. **Expense Ninja**  
+#### 7. **Expense Ninja**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/ExpenseNinja)**  
 
 - **Conversational Finance Management:** Developed an intelligent WhatsApp chatbot to simplify financial management through natural language interactions.
@@ -80,7 +96,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 7. **9 Box Puzzle Game**  
+#### 8. **9 Box Puzzle Game**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/9-box-puzzle)**  
 
 - **Interactive Puzzle Experience:** Developed a Java-based puzzle game featuring a sleek, intuitive UI with a 1-Click Solution feature for instant puzzle solving.
