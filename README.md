@@ -52,7 +52,24 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 4. **InkSpire: Real-Time Sketch Colorization**  
+#### 4. **Adermis: Skin Disease Prediction Web App**  
+**[GitHub Repo](https://github.com/ranjeetkulkarni/Adermis)**  
+
+- **AI-Powered Analysis:** Developed a full-stack AI web application that predicts skin diseases from user-uploaded images and provides follow-up analysis and treatment recommendations.
+- **Dynamic Diagnostic Flow:** Implements follow-up questions powered by custom logic and machine learning to refine diagnoses and increase prediction accuracy.
+- **Comprehensive Treatment Insights:** Displays treatment solutions in a well-organized format:  
+  - Ayurvedic Solution 
+  - Home Remedies 
+  - Over-the-counter (OTC) 
+  - Prescription Drugs 
+  Each with concise 1–2 line explanations.
+- **Robust Architecture:** Built with a Next.js and TailwindCSS frontend paired with a Python (Flask/FastAPI) backend, ensuring secure and efficient client-server communication.
+
+**Tech Stack:** Next.js | TailwindCSS | Python (Flask/FastAPI)
+
+---
+
+#### 5. **InkSpire: Real-Time Sketch Colorization**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/InkSpire)**  
 
 - **Interactive Web Application:** Developed a user-friendly web app that converts sketches to colorized images in real-time using generative adversarial networks (GANs).
@@ -63,7 +80,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 5. **HR Attrition Prediction**  
+#### 6. **HR Attrition Prediction**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/HR_Attrition)**  
 
 - **Predictive Analytics:** Developed a supervised machine learning model to forecast employee attrition by analyzing demographics, job satisfaction, work-life balance, and performance metrics.
@@ -74,7 +91,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 6. **Campus Ease**  
+#### 7. **Campus Ease**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/Campus-Ease)**  
 
 - **Comprehensive Campus Platform:** Created a web-based platform to streamline campus management, enhancing the student experience with secure authentication, event organization, and resource allocation.
@@ -85,7 +102,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 7. **Expense Ninja**  
+#### 8. **Expense Ninja**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/ExpenseNinja)**  
 
 - **Conversational Finance Management:** Developed an intelligent WhatsApp chatbot to simplify financial management through natural language interactions.
@@ -96,7 +113,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 ---
 
-#### 8. **9 Box Puzzle Game**  
+#### 9. **9 Box Puzzle Game**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/9-box-puzzle)**  
 
 - **Interactive Puzzle Experience:** Developed a Java-based puzzle game featuring a sleek, intuitive UI with a 1-Click Solution feature for instant puzzle solving.
