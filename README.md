@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Ranjeet Kulkarni</h1>
-  <h3>Machine Learning and Web Development Enthusiast</h3>
+  <h3>Machine Learning Enthusiast</h3>
   <p>
     <a href="https://v0-portfolio-alpha-one-85.vercel.app/" target="_blank" rel="noreferrer">
       Visit My Portfolio Website
