@@ -235,6 +235,9 @@ NodeJS | React | Advanced Machine Learning
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/ranjeet-kulkarni-b2361627a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?logo=github)](https://github.com/ranjeetkulkarni)
 
+![Profile views](https://komarev.com/ghpvc/?username=ranjeetkulkarni&label=Profile%20views&color=0e75b6&style=flat)
+
+
 <div align="center">
   <br/>
   <p>🚀 Turning ideas into impact with code.</p>
