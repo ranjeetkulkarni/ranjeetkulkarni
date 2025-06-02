@@ -21,105 +21,121 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 
 #### 1. **MyPortfolio: Personal Portfolio Website**  
 
-- **Responsive Design:** Built a modern, mobile-friendly personal portfolio website showcasing projects, skills, and experience.
-- **Interactive UI:** Utilized HTML5, CSS3, and JavaScript for smooth animations and an intuitive user experience.
-- **Scalable Architecture:** Integrated best practices for performance optimization and SEO, ensuring fast load times and discoverability.
+- **Responsive Design:** Built a modern, mobile-friendly personal portfolio website showcasing projects, skills, and experience.  
+- **Interactive UI:** Utilized HTML5, CSS3, and JavaScript for smooth animations and an intuitive user experience.  
+- **Scalable Architecture:** Integrated best practices for performance optimization and SEO, ensuring fast load times and discoverability.  
 
-**Tech Stack:** HTML5 | CSS3 | JavaScript | Bootstrap
+**Tech Stack:** HTML5 | CSS3 | JavaScript | Bootstrap  
 
 ---
 
 #### 2. **N.E.S.T: AI-Driven Clinical Trials Recommender System**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/AI-KnowledgeGraph-ClinicalTrialRecommender)**  
 
-- **Innovative Pipeline:** Engineered a scalable AI solution to semantically group and retrieve clinical trial data from **450k records** (495MB of textual bio-medical data) by merging multi-source inputs and extracting structured relationships using **Gemma2**.
-- **Optimized Data Processing:** Leveraged **Stella 1.5B embeddings** with **FAISS** (0.8 threshold, avg. cosine similarity 0.857) to perform advanced node deduplication, forming a dynamic **Neo4j knowledge graph**.
-- **Graph-Based Recommendations:** Developed a state-of-the-art recommendation engine using **Neo4j GDS** (Jaccard similarity) to deliver top-10 trial recommendations, ensuring cost efficiency, clinical relevance, and explainability.
+- **Innovative Pipeline:** Engineered a scalable AI solution to semantically group and retrieve clinical trial data from **450k records** (495MB of textual bio-medical data) by merging multi-source inputs and extracting structured relationships using **Gemma2**.  
+- **Optimized Data Processing:** Leveraged **Stella 1.5B embeddings** with **FAISS** (0.8 threshold, avg. cosine similarity 0.857) to perform advanced node deduplication, forming a dynamic **Neo4j knowledge graph**.  
+- **Graph-Based Recommendations:** Developed a state-of-the-art recommendation engine using **Neo4j GDS** (Jaccard similarity) to deliver top-10 trial recommendations, ensuring cost efficiency, clinical relevance, and explainability.  
 
-**Tech Stack:** Python | Gemma2 | Stella | FAISS | Neo4j GDS
+**Tech Stack:** Python | Gemma2 | Stella | FAISS | Neo4j GDS  
 
 ---
 
 #### 3. **CiboGenie: AI-Powered Food Analysis**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/CiboGenie)**  
 
-- **Data Extraction & Synthesis:** Engineered an AI-driven platform that extracts and synthesizes multi-source data (PDFs, Wikipedia, Google) to analyze food ingredients, define safe consumption guidelines, and recommend healthier substitutes.
-- **Geolocation & Mapping:** Integrated geolocation-based store recommendations with interactive mapping using **Google Maps API** and **Folium** for enhanced user experience.
-- **Enhanced Semantic Search:** Leveraged **FAISS** and **SentenceTransformers** to boost semantic search accuracy and deliver precise insights.
+- **Data Extraction & Synthesis:** Engineered an AI-driven platform that extracts and synthesizes multi-source data (PDFs, Wikipedia, Google) to analyze food ingredients, define safe consumption guidelines, and recommend healthier substitutes.  
+- **Geolocation & Mapping:** Integrated geolocation-based store recommendations with interactive mapping using **Google Maps API** and **Folium** for enhanced user experience.  
+- **Enhanced Semantic Search:** Leveraged **FAISS** and **SentenceTransformers** to boost semantic search accuracy and deliver precise insights.  
 
-**Tech Stack:** TensorFlow | Streamlit | GroqAPI | Google Maps API | FAISS | SentenceTransformers
+**Tech Stack:** TensorFlow | Streamlit | GroqAPI | Google Maps API | FAISS | SentenceTransformers  
 
 ---
 
 #### 4. **Adermis: Skin Disease Prediction Web App**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/Adermis)**  
 
-- **AI-Powered Analysis:** Developed a full-stack AI web application that predicts skin diseases from user-uploaded images and provides follow-up analysis and treatment recommendations.
-- **Dynamic Diagnostic Flow:** Implements follow-up questions powered by custom logic and machine learning to refine diagnoses and increase prediction accuracy.
+- **AI-Powered Analysis:** Developed a full-stack AI web application that predicts skin diseases from user-uploaded images and provides follow-up analysis and treatment recommendations.  
+- **Dynamic Diagnostic Flow:** Implements follow-up questions powered by custom logic and machine learning to refine diagnoses and increase prediction accuracy.  
 - **Comprehensive Treatment Insights:** Displays treatment solutions in a well-organized format:  
-  - Ayurvedic Solution 
-  - Home Remedies 
-  - Over-the-counter (OTC) 
-  - Prescription Drugs 
-  Each with concise 1–2 line explanations.
-- **Robust Architecture:** Built with a Next.js and TailwindCSS frontend paired with a Python (Flask/FastAPI) backend, ensuring secure and efficient client-server communication.
+  - Ayurvedic Solution  
+  - Home Remedies  
+  - Over-the-counter (OTC)  
+  - Prescription Drugs  
+  Each with concise 1–2 line explanations.  
+- **Robust Architecture:** Built with a Next.js and TailwindCSS frontend paired with a Python (Flask/FastAPI) backend, ensuring secure and efficient client-server communication.  
 
-**Tech Stack:** Next.js | TailwindCSS | Python (Flask/FastAPI)
+**Tech Stack:** Next.js | TailwindCSS | Python (Flask/FastAPI)  
 
 ---
 
 #### 5. **InkSpire: Real-Time Sketch Colorization**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/InkSpire)**  
 
-- **Interactive Web Application:** Developed a user-friendly web app that converts sketches to colorized images in real-time using generative adversarial networks (GANs).
-- **Custom GAN Model:** Trained a bespoke GAN on an anime dataset to achieve high-quality colorization with reduced latency.
-- **Seamless User Experience:** Delivered an interactive, responsive interface ensuring an engaging and intuitive user experience.
+- **Interactive Web Application:** Developed a user-friendly web app that converts sketches to colorized images in real-time using generative adversarial networks (GANs).  
+- **Custom GAN Model:** Trained a bespoke GAN on an anime dataset to achieve high-quality colorization with reduced latency.  
+- **Seamless User Experience:** Delivered an interactive, responsive interface ensuring an engaging and intuitive user experience.  
 
-**Tech Stack:** GANs | Flask | HTML5 | CSS3 | JavaScript
+**Tech Stack:** GANs | Flask | HTML5 | CSS3 | JavaScript  
 
 ---
 
-#### 6. **HR Attrition Prediction**  
+#### 6. **Campus Hub: Lost & Found & Marketplace Web App**  
+**[GitHub Repo](https://github.com/ranjeetkulkarni/Campus-Hub)**  
+
+- **Full-Featured Campus Community App:** Developed a Flask & SQLite web application tailored for campus users, offering Lost & Found and Marketplace platforms in one unified system.  
+- **User Management & Auth:** Implemented secure registration/login with SHA-256-hashed passwords, email verification via Flask-Mail, and role-based access (`admin`, `student`, `guest`).  
+- **Lost & Found Platform:** Users can report lost/found items with details (name, description, category, status, priority), location, and images. Includes browse/search filters and feedback/comments.  
+- **Marketplace Platform:** Users can post items for sale/rent with price, condition, description, and images. Features browse/search filters, comments, and negotiation functionality.  
+- **Admin Utilities:** Created `reset_db.py` to initialize the database with default users (`admin/admin123`, `temp/temp123`), categories, and sample data. Admin can manage users, items, and reset the database.  
+- **Image Handling:** Supports PNG, JPG, JPEG, WEBP formats. Uploaded images are resized and compressed using Pillow for efficient storage and faster load times.  
+- **Session & Security:** Sessions managed via Flask-Session (filesystem), CSRF protection with Flask-WTF, and environment-based configuration (e.g., `SECRET_KEY`, mail credentials).  
+- **Scalable Project Structure:** Organized with modular Flask blueprints (`auth`, `lost_and_found`, `marketplace`), extensions (`extensions.py`), and static/assets (`static/images`).  
+
+**Tech Stack:** Python | Flask | SQLite | Flask-Login | Flask-Session | Flask-Mail | Pillow  
+
+---
+
+#### 7. **HR Attrition Prediction**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/HR_Attrition)**  
 
-- **Predictive Analytics:** Developed a supervised machine learning model to forecast employee attrition by analyzing demographics, job satisfaction, work-life balance, and performance metrics.
-- **Data Visualization:** Utilized **matplotlib** and **seaborn** to visualize data insights and model predictions, providing actionable intelligence.
-- **Robust Model Development:** Built and trained the model using **TensorFlow** to support effective retention strategies.
+- **Predictive Analytics:** Developed a supervised machine learning model to forecast employee attrition by analyzing demographics, job satisfaction, work-life balance, and performance metrics.  
+- **Data Visualization:** Utilized **matplotlib** and **seaborn** to visualize data insights and model predictions, providing actionable intelligence.  
+- **Robust Model Development:** Built and trained the model using **TensorFlow** to support effective retention strategies.  
 
-**Tech Stack:** TensorFlow | matplotlib | seaborn | Python
+**Tech Stack:** TensorFlow | matplotlib | seaborn | Python  
 
 ---
 
-#### 7. **Campus Ease**  
+#### 8. **Campus Ease**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/Campus-Ease)**  
 
-- **Comprehensive Campus Platform:** Created a web-based platform to streamline campus management, enhancing the student experience with secure authentication, event organization, and resource allocation.
-- **Real-Time Connectivity:** Integrated real‑time notifications and a robust feedback system to foster effective communication.
-- **Dynamic Content Delivery:** Leveraged the **Gemini API** for dynamic content and utilized **Postman** for rigorous API testing, ensuring scalability and reliability.
+- **Comprehensive Campus Platform:** Created a web-based platform to streamline campus management, enhancing the student experience with secure authentication, event organization, and resource allocation.  
+- **Real-Time Connectivity:** Integrated real-time notifications and a robust feedback system to foster effective communication.  
+- **Dynamic Content Delivery:** Leveraged the **Gemini API** for dynamic content and utilized **Postman** for rigorous API testing, ensuring scalability and reliability.  
 
-**Tech Stack:** Node.js | MongoDB | Gemini API | Postman
+**Tech Stack:** Node.js | MongoDB | Gemini API | Postman  
 
 ---
 
-#### 8. **Expense Ninja**  
+#### 9. **Expense Ninja**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/ExpenseNinja)**  
 
-- **Conversational Finance Management:** Developed an intelligent WhatsApp chatbot to simplify financial management through natural language interactions.
-- **Advanced NLU:** Built using the **RASA** framework for sophisticated natural language understanding and integrated with the **Twilio WhatsApp API** for seamless messaging.
-- **Efficient Data Handling:** Employed **Hugging Face Transformers** for zero-shot classification and NER, with **SQLite** ensuring lightweight yet robust data storage.
+- **Conversational Finance Management:** Developed an intelligent WhatsApp chatbot to simplify financial management through natural language interactions.  
+- **Advanced NLU:** Built using the **RASA** framework for sophisticated natural language understanding and integrated with the **Twilio WhatsApp API** for seamless messaging.  
+- **Efficient Data Handling:** Employed **Hugging Face Transformers** for zero-shot classification and NER, with **SQLite** ensuring lightweight yet robust data storage.  
 
-**Tech Stack:** RASA | Twilio WhatsApp API | Hugging Face Transformers | SQLite
+**Tech Stack:** RASA | Twilio WhatsApp API | Hugging Face Transformers | SQLite  
 
 ---
 
-#### 9. **9 Box Puzzle Game**  
+#### 10. **9 Box Puzzle Game**  
 **[GitHub Repo](https://github.com/ranjeetkulkarni/9-box-puzzle)**  
 
-- **Interactive Puzzle Experience:** Developed a Java-based puzzle game featuring a sleek, intuitive UI with a 1-Click Solution feature for instant puzzle solving.
-- **Robust Desktop Application:** Built using **Java Swing** to deliver a dependable and interactive desktop experience.
-- **Engaging Gameplay:** Focused on providing a smooth and enjoyable user experience for puzzle enthusiasts.
+- **Interactive Puzzle Experience:** Developed a Java-based puzzle game featuring a sleek, intuitive UI with a 1-Click Solution feature for instant puzzle solving.  
+- **Robust Desktop Application:** Built using **Java Swing** to deliver a dependable and interactive desktop experience.  
+- **Engaging Gameplay:** Focused on providing a smooth and enjoyable user experience for puzzle enthusiasts.  
 
-**Tech Stack:** Java | Java Swing
+**Tech Stack:** Java | Java Swing  
 
 ---
 
@@ -236,7 +252,6 @@ NodeJS | React | Advanced Machine Learning
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?logo=github)](https://github.com/ranjeetkulkarni)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ranjeetkulkarni&label=Profile%20views&color=0e75b6&style=flat)
-
 
 <div align="center">
   <br/>
