@@ -20,7 +20,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development, Databas
 ### Projects
 
 #### 1. **MyPortfolio: Personal Portfolio Website**  
-
+- **Live Demo:** [Visit Website](https://v0-portfolio-alpha-one-85.vercel.app/)  
 - **Responsive Design:** Built a modern, mobile-friendly personal portfolio website showcasing projects, skills, and experience.  
 - **Interactive UI:** Utilized HTML5, CSS3, and JavaScript for smooth animations and an intuitive user experience.  
 - **Scalable Architecture:** Integrated best practices for performance optimization and SEO, ensuring fast load times and discoverability.  
