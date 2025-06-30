@@ -23,7 +23,7 @@
 ## 🌟 Summary
 - 🎓 **B.Tech in IT** at IIIT Allahabad (2023–2027)
 - 🔍 Passion: **AI/ML**, **Graph Databases**, **Full-Stack Development**
-- 🛠️ **Strengths:** DSA, system design, production-ready code, ML model explainability
+- 🛠️ **Strengths:** DSA, production-ready code, ML model explainability
 - 📚 **Currently Learning:** Node.js, DSA, Advanced ML Architectures
 
 ---
