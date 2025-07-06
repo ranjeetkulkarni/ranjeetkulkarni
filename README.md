@@ -61,6 +61,7 @@
 
 | Project                   | Tech Stack                                       | Link                                                     |
 |---------------------------|--------------------------------------------------|----------------------------------------------------------|
+| **Campus Hub 2.0**        | Flask, SQLAlchemy ORM, Supabase (PostgreSQL), Supabase Storage, Render CI/CD, Docker, Flask-Mail, Flask-Session, Flask-WTF, Blueprints              | [Repo](https://github.com/ranjeetkulkarni/CampusHub2.0)       |
 | **Adermis**               | Next.js, TailwindCSS, Flask/FastAPI              | [Repo](https://github.com/ranjeetkulkarni/Adermis)       |
 | **InkSpire**              | Custom GAN, Flask, JS                            | [Repo](https://github.com/ranjeetkulkarni/InkSpire)      |
 | **Campus Hub**            | Flask, SQLite, Flask-Mail, Pillow                | [Repo](https://github.com/ranjeetkulkarni/Campus-Hub)    |
