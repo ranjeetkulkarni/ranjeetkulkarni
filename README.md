@@ -93,7 +93,7 @@ Relevant Coursework: Data Structures • Machine Learning • Web Development �
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** ranjeet.kulkarni@iiita.ac.in  
+- 📧 **Email:** ranjeetkulkarni2505@gmail.com || iit2023064@iiita.ac.in 
 - 🌐 **Website:** [Portfolio](https://v0-portfolio-alpha-one-85.vercel.app/)  
 - 🤝 **LinkedIn:** [Connect](https://www.linkedin.com/in/ranjeet-kulkarni-b2361627a/)  
 - 📂 **GitHub:** [Follow](https://github.com/ranjeetkulkarni)
