@@ -12,7 +12,7 @@
   <h1>Ranjeet Kulkarni</h1>
   <p><em>🚀 Turning Ideas into Impact with Code</em></p>
   <p>
-    <a href="https://v0-portfolio-alpha-one-85.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome" alt="Portfolio"/></a>
+    <a href="https://myportfolio-rosy-sigma-91.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/ranjeet-kulkarni-b2361627a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
     <a href="https://github.com/ranjeetkulkarni"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub"/></a>
   </p>
